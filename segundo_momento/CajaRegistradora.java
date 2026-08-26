@@ -62,7 +62,7 @@ public class CajaRegistradora {
         System.out.println("Total compra + IVA: " + totalFactura);
         System.out.println("total productos: " + contProductos);
         System.out.println("total productos premium: " + contPremium);
-        System.out.println("el porcentaje de productos premium fue de: " + Math.round(porcentajePremium,2));
+        System.out.println("el porcentaje de productos premium fue de: " + porcentajePremium);
 
           
         consola.close();
