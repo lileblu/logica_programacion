@@ -67,14 +67,5 @@ public class CajaRegistradora {
           
         consola.close();
     }
-
-
-
-
-
-
-
-
-
     
 }
